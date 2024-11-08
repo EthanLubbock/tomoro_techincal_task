@@ -1,0 +1,3 @@
+[submodule "ConvFinQA"]
+	path = ConvFinQA
+	url = https://github.com/czyssrs/ConvFinQA.git

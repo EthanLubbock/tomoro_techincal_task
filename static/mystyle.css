@@ -1,0 +1,35 @@
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 600px;
+  margin-top: 50px;
+}
+.upload-box,
+.question-box,
+.answer-box {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 100px;
+}
+.btn-submit {
+  width: 100%;
+  margin-top: 20px;
+}
+.history-box {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 200px;
+}
+.question {
+  font-weight: bold;
+  color: #4a4a4a;
+}
+.answer {
+  color: #363636;
+}
